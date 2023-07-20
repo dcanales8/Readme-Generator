@@ -10,9 +10,9 @@ This application was made in order to make the chore of creating a README file e
 
 ## Screenshots
 
-![Screenshot1-week-9-challenge](./assets/1.png)
+![Terminal application](./assets/1.png)
 
-![Screenshot2-week-9-challenge](./assets/2.png)
+![Sample README](./assets/2.png)
 
 
 
